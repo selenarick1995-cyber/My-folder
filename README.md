@@ -2,7 +2,7 @@
 git config --global user.name "Your Name"
 git config --global user.email "you@example.com"
 
-# Initialize a new locl repo
+# Initialize a ne locl repo
 git init
 
 # Clone an existing repo
