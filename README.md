@@ -1,6 +1,6 @@
 # Configure u (once)
 git config --global user.name "Your Name"
-git config --global user.email "you@example.c
+git config --global user.email "you@example.com
 
 # Initialize a new locl repo
 git init
