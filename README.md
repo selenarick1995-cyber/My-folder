@@ -6,7 +6,7 @@ git config --global user.email "you@example.com
 git init
 
 # Clone an existing repo
-git clone git@github.com:username/repo.g
+git clone git@github.com:username/repo.git
 # or using HTTPS:
 # git clone https://github.com/username/repo.git
 
