@@ -8,7 +8,7 @@ git init
 # Clone an existing repo
 git clone git@github.com:username/repo.git
 # or using HTTPS:
-# git clone https://github.com/username/repo.gi
+# git clone https://github.com/username/repo.g
 
 # Check status and history
 git status
