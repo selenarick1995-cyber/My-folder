@@ -10,7 +10,7 @@ git clone git@github.com:username/repo.git
 # or using HTTPS:
 # git clone https://github.com/username/repo.git
 
-# Check status and history
+# Check status and histor
 git status
 git log --oneline --graph --all
 
