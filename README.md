@@ -46,7 +46,7 @@ git stash list
 git stash pop                   # apply and remove latest stash
 
 # Undo changes
-git restore file.txt            # discard working-dir changes (Git 2.23+)
+git restore file.txt           # discard working-dir changes (Git 2.23+)
 git checkout -- file.txt        # older style to discard changes
 git reset --soft HEAD~1         # undo last commit, keep changes staged
 git reset --hard HEAD~1         # undo last commit and discard changes (dangerous)
