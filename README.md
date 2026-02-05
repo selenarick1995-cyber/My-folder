@@ -14,7 +14,7 @@ git log --oneline --graph --all
 
 # Basic staging and committing
 git add file.txt              # stage a single file
-git add .                     # stage all change
+git add .                     # stage all chang
 git commit -m "Short clear message"
 
 # Amend last commit (only if not pushed)
