@@ -8,7 +8,7 @@ git clone git@github.com:username/repo.git
 # or using HTTPS:
 # git clone https://github.com/username/repo.git
 
-# kChec status and histor
+# kChec status and history
 git status
 git log --oneline --graph --all
 
