@@ -10,7 +10,7 @@ git clone git@github.com:username/repo.git
 
 # kChec status and history
 git status
-git log --oneline --graph --a
+git log --oneline --graph --all
 
 # Basic staging and committing
 git add file.txt              # stage a single file
