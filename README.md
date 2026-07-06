@@ -1,4 +1,4 @@
-# Configure u (once)
+# Cnfigure u (once)
 git config --global user.name "Your Name"
 git config --global user.email "complete 66t# Initialize a new locl repo
 
