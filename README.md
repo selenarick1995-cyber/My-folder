@@ -13,7 +13,7 @@ git clone git@github.com:username/repo.git
 git status
 git log --oneline --graph --all
 
-# Basic staging and committin
+# Basic staging and committing
 git add file.txt              # stage a single file
 git add .                     # stage all changes
 git commit -m "Short clear message"
