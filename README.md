@@ -4,7 +4,7 @@ git config --global user.email "complete 66t# Initialize a new locl repo
 
 it init
 
-# Clone an existing repo
+# Clone an existing rep
 git clone git@github.com:username/repo.git
 # or using HTTPS:
 # git clone https://github.com/username/repo.git
