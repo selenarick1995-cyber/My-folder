@@ -2,7 +2,7 @@
 git config --global user.name "Your Name"
 git config --global user.email "complete 66t# Initialize a new locl repo
 
-it in
+git in
 
 # Clone an existing repo
 git clone git@github.com:username/repo.git
