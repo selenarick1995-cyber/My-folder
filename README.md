@@ -10,7 +10,7 @@ git clone git@github.com:username/repo.git
 # git clone https://github.com/username/repo.git
 
 # kChec status and history
-git statu
+git status
 git log --oneline --graph --all
 
 # Basic staging and committing
