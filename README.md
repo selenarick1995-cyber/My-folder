@@ -6,7 +6,7 @@ repo
 git in
 
 # Clone an existing repo
-git clone git@github.com:username/repo.gi
+git clone git@github.com:username/repo.git
 # or using HTTPS:
 # git clone https://github.com/username/repo.git
 
